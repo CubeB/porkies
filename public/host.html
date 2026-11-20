@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PORKIES — big screen</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27%3E%3Ctext y=%27.9em%27 font-size=%2790%27%3E🐷%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="/host.css">
+</head>
+<body class="idle">
+  <div class="bg" aria-hidden="true"><i></i><i></i><i></i></div>
+
+  <main id="screen"></main>
+
+  <div id="mode-badge" aria-hidden="true"></div>
+
+  <canvas id="confetti" aria-hidden="true"></canvas>
+
+  <div id="controls">
+    <button type="button" id="c-skip" title="End the current phase now">Skip ⏭</button>
+    <button type="button" id="c-restart" title="Back to the lobby (keeps players)">Restart ↺</button>
+    <button type="button" id="c-full" title="Toggle fullscreen">Fullscreen ⛶</button>
+    <button type="button" id="c-music" title="Toggle background music">Music 🎵</button>
+    <button type="button" id="c-mute" title="Mute everything">Sound 🔊</button>
+  </div>
+
+  <div id="toast" role="status"></div>
+
+  <div id="overlay">
+    <div class="overlay-box">
+      <div class="overlay-pig">🐷</div>
+      <div id="overlay-text">Connecting…</div>
+    </div>
+  </div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="/host.js"></script>
+</body>
+</html>

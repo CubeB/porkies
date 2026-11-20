@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1b1030">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="format-detection" content="telephone=no">
+<title>Porkies</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27%3E%3Ctext y=%27.9em%27 font-size=%2790%27%3E🐷%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="/player.css">
+</head>
+<body>
+
+<div id="banner" class="banner" role="status" aria-live="polite" hidden>Connection lost &mdash; reconnecting&hellip;</div>
+
+<header id="topbar" class="topbar" hidden>
+  <span class="topbar-logo"><span aria-hidden="true">🐷</span> PORKIES</span>
+  <span class="topbar-me">
+    <span id="top-name" class="chip"></span>
+    <span id="top-score" class="topbar-score"></span>
+  </span>
+</header>
+
+<main id="main">
+
+  <!-- JOIN -->
+  <section id="s-join" class="screen">
+    <div class="logo">
+      <div class="logo-pig" aria-hidden="true">🐷</div>
+      <h1>PORKIES</h1>
+      <p class="tagline">tell a whopper, spot the truth</p>
+    </div>
+    <form id="join-form" class="panel" autocomplete="off" novalidate>
+      <label for="name-input">Your name</label>
+      <input id="name-input" type="text" maxlength="12" inputmode="text" enterkeyhint="go"
+             autocomplete="off" autocorrect="off" autocapitalize="words" spellcheck="false"
+             placeholder="e.g. Hamlet">
+      <p id="join-error" class="error" role="alert" hidden></p>
+      <button id="join-btn" type="submit" class="btn btn-primary">JOIN</button>
+    </form>
+  </section>
+
+  <!-- LOBBY -->
+  <section id="s-lobby" class="screen" hidden>
+    <h2 class="big">You're in, <span id="lobby-name" class="you-name"></span>!</h2>
+    <p class="muted center">Watch the big screen. The game starts when everyone's here.</p>
+    <div class="panel">
+      <h3 id="lobby-count">Players</h3>
+      <ul id="lobby-players" class="players"></ul>
+    </div>
+    <div id="lobby-mode" class="panel mode-panel">
+      <h3 id="mode-title">Game mode</h3>
+      <div id="mode-switch" class="mode-switch" role="group" aria-label="Game mode">
+        <button type="button" class="mode-opt" data-mode="classic">Classic</button>
+        <button type="button" class="mode-opt" data-mode="quickfire">Quickfire ⚡</button>
+      </div>
+      <p id="mode-desc" class="mode-desc"></p>
+    </div>
+    <div id="lobby-vip" hidden>
+      <button id="start-btn" type="button" class="btn btn-primary">START GAME</button>
+      <p id="start-hint" class="hint center"></p>
+    </div>
+    <p id="lobby-wait" class="waiting center" hidden></p>
+  </section>
+
+  <!-- WRITING -->
+  <section id="s-writing" class="screen" hidden>
+    <div class="q-head">
+      <span class="q-meta"></span>
+      <span class="q-mult" hidden></span>
+      <span class="timer" aria-label="seconds left"></span>
+    </div>
+    <div class="panel q-card"><p class="q-text"></p></div>
+
+    <form id="lie-form" autocomplete="off" novalidate>
+      <label for="lie-input">Write a convincing lie for the blank</label>
+      <input id="lie-input" type="text" maxlength="40" inputmode="text" enterkeyhint="send"
+             autocomplete="off" autocorrect="off" autocapitalize="characters" spellcheck="false"
+             placeholder="YOUR LIE">
+      <p id="lie-error" class="error" role="alert" hidden></p>
+      <button id="lie-btn" type="submit" class="btn btn-primary">SUBMIT</button>
+    </form>
+
+    <div id="lie-done" hidden>
+      <div class="panel center">
+        <p class="label">Your lie</p>
+        <p id="lie-mine" class="my-lie"></p>
+      </div>
+      <p class="waiting center">Waiting for the others&hellip;</p>
+      <div id="writing-pending-wrap" class="center" hidden>
+        <p class="label">Still writing</p>
+        <ul id="writing-pending" class="chips"></ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- VOTING -->
+  <section id="s-voting" class="screen" hidden>
+    <div class="q-head">
+      <span class="q-meta"></span>
+      <span class="q-mult" hidden></span>
+      <span class="timer" aria-label="seconds left"></span>
+    </div>
+    <div class="panel q-card"><p class="q-text"></p></div>
+    <p id="vote-prompt" class="label center">Which one is the truth?</p>
+    <p id="vote-error" class="error" role="alert" hidden></p>
+    <div id="vote-options" class="options"></div>
+    <div id="voting-pending-wrap" class="center" hidden>
+      <p class="label">Still voting</p>
+      <ul id="voting-pending" class="chips"></ul>
+    </div>
+  </section>
+
+  <!-- REVEAL -->
+  <section id="s-reveal" class="screen screen-center" hidden>
+    <div class="eyes" aria-hidden="true">👀</div>
+    <h2 class="big">Eyes on the big screen!</h2>
+    <p class="muted center">Let's see who told the best porkies&hellip;</p>
+  </section>
+
+  <!-- SCORES -->
+  <section id="s-scores" class="screen" hidden>
+    <div class="panel center">
+      <p class="label">This question</p>
+      <p id="score-delta" class="delta"></p>
+      <ul id="score-notes" class="notes"></ul>
+    </div>
+    <div class="stats">
+      <div class="panel center"><p class="label">Total</p><p id="score-total" class="stat"></p></div>
+      <div class="panel center"><p class="label">Place</p><p id="score-rank" class="stat"></p></div>
+    </div>
+    <div class="panel">
+      <ul id="score-board" class="players board"></ul>
+    </div>
+  </section>
+
+  <!-- GAME OVER -->
+  <section id="s-gameover" class="screen" hidden>
+    <h2 class="big">GAME OVER</h2>
+    <div class="panel center">
+      <p class="label">You finished</p>
+      <p id="final-place" class="place"></p>
+      <p id="final-score" class="muted"></p>
+    </div>
+    <div class="panel center winner">
+      <p class="label">Winner</p>
+      <p id="final-winner" class="winner-name"></p>
+    </div>
+    <div class="panel">
+      <ul id="final-board" class="players board"></ul>
+    </div>
+    <button id="again-btn" type="button" class="btn btn-primary" hidden>PLAY AGAIN</button>
+    <p id="again-wait" class="waiting center" hidden></p>
+  </section>
+
+</main>
+
+<footer id="footer" class="footer" hidden>
+  <button id="skip-btn" type="button" class="skip">skip &rsaquo;</button>
+</footer>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/player.js"></script>
+</body>
+</html>

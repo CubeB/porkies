@@ -1,0 +1,2147 @@
+[
+  {
+    "id": 1,
+    "category": "Animals",
+    "text": "Wombats are the only animals known to produce _____ droppings.",
+    "answer": "cube-shaped",
+    "alternates": [
+      "cube shaped",
+      "cubic",
+      "square",
+      "cubed",
+      "cube",
+      "square-shaped"
+    ],
+    "decoys": [
+      "bright blue",
+      "glow-in-the-dark",
+      "odourless",
+      "spiral-shaped"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Animals",
+    "text": "A baby echidna is called a _____.",
+    "answer": "puggle",
+    "alternates": [
+      "a puggle",
+      "puggles"
+    ],
+    "decoys": [
+      "spinlet",
+      "nubbin",
+      "quillet",
+      "snorkel"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Animals",
+    "text": "Koalas have _____ that are almost impossible to tell apart from a human's, even under a microscope.",
+    "answer": "fingerprints",
+    "alternates": [
+      "finger prints",
+      "fingerprint"
+    ],
+    "decoys": [
+      "eyelashes",
+      "toenails",
+      "teeth",
+      "kneecaps"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Animals",
+    "text": "In parts of Africa, a wild bird deliberately leads humans to _____ so that it can eat the leftovers.",
+    "answer": "bees' nests",
+    "alternates": [
+      "bees nests",
+      "bee nests",
+      "beehives",
+      "bee hives",
+      "wild bees' nests",
+      "honey",
+      "wild honey",
+      "a bees nest"
+    ],
+    "decoys": [
+      "ostrich eggs",
+      "termite mounds",
+      "sleeping antelope",
+      "crocodile nests"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Animals",
+    "text": "The platypus is one of the few mammals that has no _____.",
+    "answer": "stomach",
+    "alternates": [
+      "a stomach",
+      "tummy"
+    ],
+    "decoys": [
+      "eyelids",
+      "kneecaps",
+      "tongue",
+      "bladder"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Animals",
+    "text": "Dalmatian puppies are born _____.",
+    "answer": "without spots",
+    "alternates": [
+      "spotless",
+      "white",
+      "pure white",
+      "plain white",
+      "with no spots",
+      "completely white",
+      "all white",
+      "without any spots"
+    ],
+    "decoys": [
+      "with stripes",
+      "bright pink",
+      "completely bald",
+      "with grey fur"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Animals",
+    "text": "Three-toed sloths climb down from the treetops roughly once a week, purely in order to _____.",
+    "answer": "poo",
+    "alternates": [
+      "poop",
+      "defecate",
+      "go to the toilet",
+      "have a poo",
+      "do a poo",
+      "go to the loo",
+      "relieve themselves",
+      "take a dump"
+    ],
+    "decoys": [
+      "have a bath",
+      "find a mate",
+      "eat soil",
+      "sharpen their claws"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Animals",
+    "text": "Much of the fine white sand on tropical coral beaches is actually _____ poo.",
+    "answer": "parrotfish",
+    "alternates": [
+      "parrot fish",
+      "parrot-fish"
+    ],
+    "decoys": [
+      "seagull",
+      "sea turtle",
+      "pufferfish",
+      "starfish"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Animals",
+    "text": "The scientific name of the western lowland gorilla is _____.",
+    "answer": "Gorilla gorilla gorilla",
+    "alternates": [
+      "gorilla gorilla"
+    ],
+    "decoys": [
+      "Simia gigantea",
+      "Pongo africanus",
+      "Gorilla maximus rex",
+      "Homo sylvestris"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Animals",
+    "text": "Butterflies taste with their _____.",
+    "answer": "feet",
+    "alternates": [
+      "their feet",
+      "legs",
+      "foot"
+    ],
+    "decoys": [
+      "wings",
+      "knees",
+      "eyes",
+      "bottoms"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Animals",
+    "text": "The kiwi is the only bird with _____ at the very tip of its beak.",
+    "answer": "nostrils",
+    "alternates": [
+      "its nostrils",
+      "nostril",
+      "nose",
+      "its nose"
+    ],
+    "decoys": [
+      "teeth",
+      "ears",
+      "a stinger",
+      "sweat glands"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Animals",
+    "text": "When threatened, some horned lizards squirt _____ from their eyes.",
+    "answer": "blood",
+    "alternates": [
+      "their own blood",
+      "their blood"
+    ],
+    "decoys": [
+      "venom",
+      "urine",
+      "acid",
+      "musk"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Animals",
+    "text": "Lobsters send signals to one another by squirting _____ out of their faces.",
+    "answer": "urine",
+    "alternates": [
+      "wee",
+      "pee",
+      "piss",
+      "their urine"
+    ],
+    "decoys": [
+      "ink",
+      "saliva",
+      "bubbles",
+      "blood"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "History",
+    "text": "The shortest war on record, over in well under an hour, was fought in 1896 between Britain and _____.",
+    "answer": "Zanzibar",
+    "alternates": [
+      "the sultanate of zanzibar"
+    ],
+    "decoys": [
+      "Madagascar",
+      "Siam",
+      "Hawaii",
+      "Paraguay"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "History",
+    "text": "In the year 897, Pope Stephen VI held a formal trial in which the defendant was _____.",
+    "answer": "a dead pope",
+    "alternates": [
+      "his dead predecessor",
+      "a corpse",
+      "a dead body",
+      "pope formosus",
+      "formosus",
+      "the corpse of a pope",
+      "a dead man",
+      "a pope's corpse",
+      "the previous pope",
+      "a dead person"
+    ],
+    "decoys": [
+      "a swarm of locusts",
+      "his own horse",
+      "the River Tiber",
+      "a church bell"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "History",
+    "text": "In 1518, hundreds of people in Strasbourg were struck down by a mysterious epidemic of uncontrollable _____.",
+    "answer": "dancing",
+    "alternates": [
+      "dance"
+    ],
+    "decoys": [
+      "laughing",
+      "hiccups",
+      "sneezing",
+      "singing"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "History",
+    "text": "In 1814, eight Londoners died when a tidal wave of _____ swept through the streets of St Giles.",
+    "answer": "beer",
+    "alternates": [
+      "porter",
+      "ale"
+    ],
+    "decoys": [
+      "treacle",
+      "gin",
+      "sewage",
+      "whale oil"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "History",
+    "text": "In the hot summer of 1858, Parliament was almost driven out of Westminster by what became known as the Great _____.",
+    "answer": "Stink",
+    "alternates": [
+      "the great stink"
+    ],
+    "decoys": [
+      "Miasma",
+      "Pong",
+      "Sludge",
+      "Swelter"
+    ]
+  },
+  {
+    "id": 19,
+    "category": "History",
+    "text": "From 1784 to 1811, every _____ sold in Britain had to have a tax stamp fixed inside it.",
+    "answer": "hat",
+    "alternates": [
+      "hats",
+      "man's hat",
+      "men's hat"
+    ],
+    "decoys": [
+      "boot",
+      "umbrella",
+      "snuffbox",
+      "Bible"
+    ]
+  },
+  {
+    "id": 20,
+    "category": "History",
+    "text": "In 1952, Albert Einstein was offered the job of _____, and politely turned it down.",
+    "answer": "President of Israel",
+    "alternates": [
+      "israeli president",
+      "israel's president",
+      "president of israel",
+      "israels president"
+    ],
+    "decoys": [
+      "Mayor of Zurich",
+      "King of Albania",
+      "Chancellor of Austria",
+      "Head of the United Nations"
+    ]
+  },
+  {
+    "id": 21,
+    "category": "History",
+    "text": "Told he could not keep a dog at Cambridge, the poet Lord Byron kept a _____ in his rooms instead.",
+    "answer": "bear",
+    "alternates": [
+      "tame bear",
+      "a bear",
+      "pet bear"
+    ],
+    "decoys": [
+      "pig",
+      "swan",
+      "otter",
+      "donkey"
+    ]
+  },
+  {
+    "id": 22,
+    "category": "History",
+    "text": "The Tudor courtier whose job was to attend the king on the toilet held the title Groom of the _____.",
+    "answer": "Stool",
+    "alternates": [
+      "the stool",
+      "stoole",
+      "groom of the stool"
+    ],
+    "decoys": [
+      "Throne",
+      "Pot",
+      "Seat",
+      "Bucket"
+    ]
+  },
+  {
+    "id": 23,
+    "category": "History",
+    "text": "According to the Greek historian Herodotus, ancient Egyptians mourned a dead pet cat by shaving off their _____.",
+    "answer": "eyebrows",
+    "alternates": [
+      "eyebrow",
+      "eye brows",
+      "their eyebrows"
+    ],
+    "decoys": [
+      "beards",
+      "eyelashes",
+      "moustaches",
+      "chest hair"
+    ]
+  },
+  {
+    "id": 24,
+    "category": "History",
+    "text": "In 18th-century Britain, hosts who wanted to impress could rent a _____ for the evening to display at a dinner party.",
+    "answer": "pineapple",
+    "alternates": [
+      "a pineapple",
+      "pineapples"
+    ],
+    "decoys": [
+      "peacock",
+      "coconut",
+      "grapefruit",
+      "lobster"
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Brands & Business",
+    "text": "Pepsi was first sold under the name _____.",
+    "answer": "Brad's Drink",
+    "alternates": [
+      "brads drink",
+      "brad's",
+      "brad drink"
+    ],
+    "decoys": [
+      "Doc's Tonic",
+      "Carolina Fizz",
+      "Caleb's Cola",
+      "Dandy Soda"
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Brands & Business",
+    "text": "Google's founders originally called their search engine _____.",
+    "answer": "BackRub",
+    "alternates": [
+      "back rub",
+      "back-rub"
+    ],
+    "decoys": [
+      "PageHunt",
+      "WebWorm",
+      "Snoop",
+      "Lookie"
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Brands & Business",
+    "text": "Nintendo was founded in 1889 as a maker of _____.",
+    "answer": "playing cards",
+    "alternates": [
+      "cards",
+      "hanafuda",
+      "hanafuda cards",
+      "card games",
+      "playing card"
+    ],
+    "decoys": [
+      "paper lanterns",
+      "rice cookers",
+      "wooden abacuses",
+      "silk kimonos"
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Brands & Business",
+    "text": "Nokia began life in 1865 as a _____.",
+    "answer": "paper mill",
+    "alternates": [
+      "pulp mill",
+      "wood pulp mill",
+      "a paper mill",
+      "paper factory",
+      "wood-pulp mill"
+    ],
+    "decoys": [
+      "fish cannery",
+      "match factory",
+      "reindeer farm",
+      "piano workshop"
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Brands & Business",
+    "text": "Before it became a toy, Play-Doh was sold as a _____.",
+    "answer": "wallpaper cleaner",
+    "alternates": [
+      "a wallpaper cleaner",
+      "wallpaper cleaning putty",
+      "wall cleaner",
+      "wallpaper cleaning product"
+    ],
+    "decoys": [
+      "denture adhesive",
+      "window putty",
+      "pipe sealant",
+      "chewing gum base"
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Brands & Business",
+    "text": "Despite its Scandinavian-sounding name, Häagen-Dazs ice cream was created in _____.",
+    "answer": "the Bronx",
+    "alternates": [
+      "bronx",
+      "new york",
+      "new york city",
+      "the bronx new york",
+      "nyc"
+    ],
+    "decoys": [
+      "Glasgow",
+      "Tel Aviv",
+      "Las Vegas",
+      "Mexico City"
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Brands & Business",
+    "text": "Jeff Bezos originally registered Amazon under the name _____.",
+    "answer": "Cadabra",
+    "alternates": [
+      "cadabra inc",
+      "kadabra"
+    ],
+    "decoys": [
+      "Papyrus",
+      "Bookoo",
+      "Shelfish",
+      "Everest"
+    ]
+  },
+  {
+    "id": 32,
+    "category": "Brands & Business",
+    "text": "The Michelin Man has a proper name: _____.",
+    "answer": "Bibendum",
+    "alternates": [
+      "bib",
+      "monsieur bibendum"
+    ],
+    "decoys": [
+      "Gaston",
+      "Pneumo",
+      "Monsieur Rond",
+      "Clermont"
+    ]
+  },
+  {
+    "id": 33,
+    "category": "Brands & Business",
+    "text": "The 'TES' in Tesco comes from the initials of T. E. Stockwell, who supplied the founder with _____.",
+    "answer": "tea",
+    "alternates": [
+      "loose tea",
+      "tea leaves"
+    ],
+    "decoys": [
+      "soap",
+      "bacon",
+      "tobacco",
+      "biscuits"
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Brands & Business",
+    "text": "Until 1948, the soft drink 7 Up contained the mood-stabilising drug _____.",
+    "answer": "lithium",
+    "alternates": [
+      "lithium citrate",
+      "lithium salts"
+    ],
+    "decoys": [
+      "morphine",
+      "laudanum",
+      "ether",
+      "bromide"
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Brands & Business",
+    "text": "The name Bovril combines the Latin for 'ox' with 'Vril', a mysterious energy source from a Victorian _____.",
+    "answer": "science-fiction novel",
+    "alternates": [
+      "sci-fi novel",
+      "science fiction novel",
+      "sci fi novel",
+      "novel",
+      "book",
+      "science fiction book",
+      "sci-fi book",
+      "science fiction story"
+    ],
+    "decoys": [
+      "stage magic show",
+      "children's comic",
+      "spiritualist pamphlet",
+      "comic opera"
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Brands & Business",
+    "text": "PG Tips tea was launched in 1930 under the name _____, which grocers soon shortened to PG.",
+    "answer": "Pre-Gest-Tee",
+    "alternates": [
+      "pre-gestee",
+      "pregestee",
+      "pre gest tee",
+      "pre-gest-ee",
+      "pre gestee",
+      "pregest tee",
+      "pre-gest tea",
+      "pre gest tea"
+    ],
+    "decoys": [
+      "Pekoe Gold",
+      "Prince George",
+      "Pure Garden",
+      "Planter's Grade"
+    ]
+  },
+  {
+    "id": 37,
+    "category": "Brands & Business",
+    "text": "When Bassett's launched them in 1918, Jelly Babies were called _____ Babies.",
+    "answer": "Peace",
+    "alternates": [
+      "peace babies"
+    ],
+    "decoys": [
+      "Victory",
+      "Bonny",
+      "Sugar",
+      "Lucky"
+    ]
+  },
+  {
+    "id": 38,
+    "category": "Food & Drink",
+    "text": "Marmite is named after a French word for a type of _____.",
+    "answer": "cooking pot",
+    "alternates": [
+      "pot",
+      "casserole pot",
+      "casserole dish",
+      "stockpot",
+      "stock pot",
+      "casserole",
+      "cauldron",
+      "earthenware pot",
+      "saucepan"
+    ],
+    "decoys": [
+      "beef dripping",
+      "wooden spoon",
+      "yeast cake",
+      "burnt crust"
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Food & Drink",
+    "text": "The Caesar salad was invented in _____.",
+    "answer": "Mexico",
+    "alternates": [
+      "tijuana",
+      "tijuana mexico"
+    ],
+    "decoys": [
+      "Scotland",
+      "Belgium",
+      "Japan",
+      "Australia"
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Food & Drink",
+    "text": "The Hawaiian pizza was invented in _____.",
+    "answer": "Canada",
+    "alternates": [
+      "ontario",
+      "ontario canada"
+    ],
+    "decoys": [
+      "Sweden",
+      "Germany",
+      "New Zealand",
+      "Japan"
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Food & Drink",
+    "text": "Eaten in large enough amounts, the common kitchen spice _____ causes hallucinations.",
+    "answer": "nutmeg",
+    "alternates": [
+      "nutmegs",
+      "ground nutmeg"
+    ],
+    "decoys": [
+      "paprika",
+      "turmeric",
+      "cardamom",
+      "fennel seed"
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Food & Drink",
+    "text": "The little wire cage that holds a champagne cork in place is called a _____.",
+    "answer": "muselet",
+    "alternates": [
+      "a muselet",
+      "muselet cage"
+    ],
+    "decoys": [
+      "capsulet",
+      "bridoir",
+      "corsette",
+      "garrotte"
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Food & Drink",
+    "text": "The dent in the bottom of a wine bottle is called a _____.",
+    "answer": "punt",
+    "alternates": [
+      "the punt",
+      "kick-up",
+      "kick up",
+      "a punt"
+    ],
+    "decoys": [
+      "keel",
+      "sump",
+      "bodkin",
+      "plummet"
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Food & Drink",
+    "text": "Until a marketing rebrand in the 1950s, kiwi fruit were known as _____.",
+    "answer": "Chinese gooseberries",
+    "alternates": [
+      "chinese gooseberry",
+      "china gooseberries"
+    ],
+    "decoys": [
+      "hairy plums",
+      "Maori limes",
+      "velvet figs",
+      "Tasman melons"
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Food & Drink",
+    "text": "The fish sold in restaurants as 'Chilean sea bass' is really called the Patagonian _____.",
+    "answer": "toothfish",
+    "alternates": [
+      "tooth fish",
+      "tooth-fish",
+      "patagonian toothfish"
+    ],
+    "decoys": [
+      "mudsucker",
+      "snotfish",
+      "gulper",
+      "hagcod"
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Food & Drink",
+    "text": "Tonic water glows bright blue under ultraviolet light because it contains _____.",
+    "answer": "quinine",
+    "alternates": [
+      "quinine sulphate"
+    ],
+    "decoys": [
+      "riboflavin",
+      "citric acid",
+      "phosphorus",
+      "saccharin"
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Words",
+    "text": "The medical word for a rumbling tummy is _____.",
+    "answer": "borborygmus",
+    "alternates": [
+      "borborygmi",
+      "borborygm"
+    ],
+    "decoys": [
+      "gastrophony",
+      "crepitus",
+      "flatulus",
+      "murmuration"
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Words",
+    "text": "Telephone engineers gave the # symbol an official-sounding name: the _____.",
+    "answer": "octothorpe",
+    "alternates": [
+      "octothorp",
+      "octatherp",
+      "octothorn"
+    ],
+    "decoys": [
+      "quadrathorn",
+      "crosshatchet",
+      "tetragrid",
+      "gridlet"
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Words",
+    "text": "The word 'muscle' comes from the Latin for '_____'.",
+    "answer": "little mouse",
+    "alternates": [
+      "small mouse",
+      "mouse",
+      "a little mouse",
+      "tiny mouse"
+    ],
+    "decoys": [
+      "small snake",
+      "hidden rope",
+      "strong worm",
+      "young bull"
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Words",
+    "text": "The word 'orchid' comes from the ancient Greek for '_____'.",
+    "answer": "testicle",
+    "alternates": [
+      "testicles",
+      "testes",
+      "ball",
+      "balls",
+      "bollock",
+      "bollocks"
+    ],
+    "decoys": [
+      "tongue",
+      "nipple",
+      "earlobe",
+      "navel"
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Words",
+    "text": "The word 'clue' originally meant a _____.",
+    "answer": "ball of thread",
+    "alternates": [
+      "ball of yarn",
+      "ball of string",
+      "ball of wool",
+      "a ball of thread",
+      "ball of twine"
+    ],
+    "decoys": [
+      "wax seal",
+      "bent key",
+      "trail of crumbs",
+      "dog's nose"
+    ]
+  },
+  {
+    "id": 52,
+    "category": "Words",
+    "text": "When it first entered English in the Middle Ages, the word 'nice' meant '_____'.",
+    "answer": "foolish",
+    "alternates": [
+      "silly",
+      "stupid",
+      "ignorant",
+      "simple",
+      "senseless"
+    ],
+    "decoys": [
+      "wealthy",
+      "plump",
+      "clean",
+      "sour"
+    ]
+  },
+  {
+    "id": 53,
+    "category": "Words",
+    "text": "The word 'tragedy' comes from the Greek for '_____'.",
+    "answer": "goat song",
+    "alternates": [
+      "goat-song",
+      "song of the goat",
+      "goat's song",
+      "goat songs",
+      "goat singing"
+    ],
+    "decoys": [
+      "wolf's dinner",
+      "broken mask",
+      "king's tears",
+      "bitter wine"
+    ]
+  },
+  {
+    "id": 54,
+    "category": "Words",
+    "text": "The word 'mortgage' comes from the Old French for '_____'.",
+    "answer": "death pledge",
+    "alternates": [
+      "dead pledge",
+      "death contract",
+      "death promise",
+      "pledge of death",
+      "death-pledge"
+    ],
+    "decoys": [
+      "heavy chain",
+      "lord's share",
+      "stone promise",
+      "borrowed roof"
+    ]
+  },
+  {
+    "id": 55,
+    "category": "Words",
+    "text": "Lemurs take their name from the Latin word for _____.",
+    "answer": "ghosts",
+    "alternates": [
+      "ghost",
+      "spirits",
+      "spirit",
+      "spirits of the dead",
+      "the dead",
+      "spectres"
+    ],
+    "decoys": [
+      "thieves",
+      "orphans",
+      "moonlight",
+      "beggars"
+    ]
+  },
+  {
+    "id": 56,
+    "category": "Words",
+    "text": "The word 'robot' comes from a Czech word meaning '_____'.",
+    "answer": "forced labour",
+    "alternates": [
+      "forced labor",
+      "hard labour",
+      "drudgery",
+      "slave labour",
+      "serfdom",
+      "servitude",
+      "compulsory labour",
+      "forced work",
+      "slavery"
+    ],
+    "decoys": [
+      "iron servant",
+      "false man",
+      "tin soldier",
+      "tireless hands"
+    ]
+  },
+  {
+    "id": 57,
+    "category": "Words",
+    "text": "The word 'gymnasium' comes from the Greek for 'to exercise _____'.",
+    "answer": "naked",
+    "alternates": [
+      "nude",
+      "in the nude",
+      "unclothed",
+      "in the buff"
+    ],
+    "decoys": [
+      "in public",
+      "with oil",
+      "until sick",
+      "for the gods"
+    ]
+  },
+  {
+    "id": 58,
+    "category": "Words",
+    "text": "Bluetooth wireless technology is named after a 10th-century _____.",
+    "answer": "Viking king",
+    "alternates": [
+      "danish king",
+      "king of denmark",
+      "king",
+      "norse king",
+      "scandinavian king",
+      "viking",
+      "harald bluetooth",
+      "king harald",
+      "king harald bluetooth"
+    ],
+    "decoys": [
+      "Irish monk",
+      "Welsh pirate",
+      "Dutch dentist",
+      "Persian poet"
+    ]
+  },
+  {
+    "id": 59,
+    "category": "Science",
+    "text": "Thanks to the potassium they contain, bananas are very slightly _____.",
+    "answer": "radioactive",
+    "alternates": [
+      "radio active",
+      "radio-active"
+    ],
+    "decoys": [
+      "magnetic",
+      "explosive",
+      "venomous",
+      "addictive"
+    ]
+  },
+  {
+    "id": 60,
+    "category": "Science",
+    "text": "Four chemical elements are named after Ytterby, a tiny village in _____.",
+    "answer": "Sweden",
+    "alternates": [],
+    "decoys": [
+      "Norway",
+      "Iceland",
+      "Scotland",
+      "Finland"
+    ]
+  },
+  {
+    "id": 61,
+    "category": "Science",
+    "text": "The crack of a whip is actually a miniature _____.",
+    "answer": "sonic boom",
+    "alternates": [
+      "a sonic boom",
+      "sonic booms",
+      "supersonic boom"
+    ],
+    "decoys": [
+      "electric spark",
+      "vacuum implosion",
+      "static discharge",
+      "shock echo"
+    ]
+  },
+  {
+    "id": 62,
+    "category": "Science",
+    "text": "Nuclear physicists measure the target area of an atomic nucleus in a unit called the _____.",
+    "answer": "barn",
+    "alternates": [
+      "barns",
+      "a barn"
+    ],
+    "decoys": [
+      "thimble",
+      "pinhead",
+      "crumb",
+      "stamp"
+    ]
+  },
+  {
+    "id": 63,
+    "category": "Science",
+    "text": "The astronomer William Herschel wanted to name the planet he discovered, now called Uranus, after _____.",
+    "answer": "King George III",
+    "alternates": [
+      "george iii",
+      "king george",
+      "george the third",
+      "king george the third",
+      "george 3",
+      "the king",
+      "king george 3"
+    ],
+    "decoys": [
+      "his sister Caroline",
+      "Isaac Newton",
+      "his pet dog",
+      "the city of Bath"
+    ]
+  },
+  {
+    "id": 64,
+    "category": "Human Body",
+    "text": "Humans are the only animals with a true _____.",
+    "answer": "chin",
+    "alternates": [
+      "a chin"
+    ],
+    "decoys": [
+      "earlobe",
+      "navel",
+      "kneecap",
+      "eyebrow"
+    ]
+  },
+  {
+    "id": 65,
+    "category": "Human Body",
+    "text": "The hyoid is the only bone in the human body not attached to any other bone. It sits in your _____.",
+    "answer": "throat",
+    "alternates": [
+      "neck",
+      "the throat",
+      "the neck"
+    ],
+    "decoys": [
+      "ear",
+      "groin",
+      "armpit",
+      "heel"
+    ]
+  },
+  {
+    "id": 66,
+    "category": "Human Body",
+    "text": "Your 'funny bone' isn't a bone at all. It's a _____.",
+    "answer": "nerve",
+    "alternates": [
+      "a nerve",
+      "ulnar nerve",
+      "the ulnar nerve"
+    ],
+    "decoys": [
+      "tendon",
+      "gland",
+      "ligament",
+      "blood vessel"
+    ]
+  },
+  {
+    "id": 67,
+    "category": "Human Body",
+    "text": "Sphenopalatine ganglioneuralgia is the proper medical term for _____.",
+    "answer": "brain freeze",
+    "alternates": [
+      "brainfreeze",
+      "ice cream headache",
+      "ice-cream headache",
+      "an ice cream headache",
+      "cold headache",
+      "a brain freeze"
+    ],
+    "decoys": [
+      "hiccups",
+      "pins and needles",
+      "a stitch",
+      "a dead leg"
+    ]
+  },
+  {
+    "id": 68,
+    "category": "Human Body",
+    "text": "Horripilation is the technical term for _____.",
+    "answer": "goosebumps",
+    "alternates": [
+      "goose bumps",
+      "goose pimples",
+      "gooseflesh",
+      "goose flesh",
+      "goose-pimples",
+      "goosepimples"
+    ],
+    "decoys": [
+      "blushing",
+      "yawning",
+      "nose-picking",
+      "knuckle cracking"
+    ]
+  },
+  {
+    "id": 69,
+    "category": "Human Body",
+    "text": "People with the genuinely named 'ACHOO syndrome' sneeze when they encounter _____.",
+    "answer": "bright light",
+    "alternates": [
+      "sunlight",
+      "bright sunlight",
+      "the sun",
+      "light",
+      "bright lights",
+      "sudden bright light",
+      "sunshine"
+    ],
+    "decoys": [
+      "loud music",
+      "cold water",
+      "the colour red",
+      "fresh bread"
+    ]
+  },
+  {
+    "id": 70,
+    "category": "Human Body",
+    "text": "The uvula, the dangly bit at the back of your throat, takes its name from the Latin for 'little _____'.",
+    "answer": "grape",
+    "alternates": [
+      "grapes",
+      "little grape"
+    ],
+    "decoys": [
+      "bell",
+      "tongue",
+      "tail",
+      "finger"
+    ]
+  },
+  {
+    "id": 71,
+    "category": "Geography",
+    "text": "There is a village in Norway called _____, and it freezes over every winter.",
+    "answer": "Hell",
+    "alternates": [
+      "hell norway"
+    ],
+    "decoys": [
+      "Doom",
+      "Grim",
+      "Limbo",
+      "Misery"
+    ]
+  },
+  {
+    "id": 72,
+    "category": "Geography",
+    "text": "The Devon seaside village of Westward Ho! was named after a _____.",
+    "answer": "novel",
+    "alternates": [
+      "book",
+      "a novel",
+      "a book",
+      "charles kingsley novel",
+      "victorian novel",
+      "bestselling novel"
+    ],
+    "decoys": [
+      "racehorse",
+      "steamship",
+      "sea shanty",
+      "pub"
+    ]
+  },
+  {
+    "id": 73,
+    "category": "Geography",
+    "text": "Until 1916, the Canadian city of Kitchener was called _____.",
+    "answer": "Berlin",
+    "alternates": [
+      "berlin ontario",
+      "new berlin"
+    ],
+    "decoys": [
+      "Vienna",
+      "Hamburg",
+      "New Dublin",
+      "Kaiserville"
+    ]
+  },
+  {
+    "id": 74,
+    "category": "Geography",
+    "text": "Until 1925, the Norwegian capital Oslo was called _____.",
+    "answer": "Kristiania",
+    "alternates": [
+      "christiania"
+    ],
+    "decoys": [
+      "Haraldsborg",
+      "Nordhavn",
+      "Akerstad",
+      "Olavsby"
+    ]
+  },
+  {
+    "id": 75,
+    "category": "Geography",
+    "text": "The name of the Pacific island nation Kiribati is correctly pronounced '_____'.",
+    "answer": "Kiribass",
+    "alternates": [
+      "kiri-bass",
+      "kiribas",
+      "kiribass",
+      "kiri bass"
+    ],
+    "decoys": [
+      "Kiribatch",
+      "Kirbatty",
+      "Chiribat",
+      "Kireebay"
+    ]
+  },
+  {
+    "id": 76,
+    "category": "Geography",
+    "text": "The Canary Islands are named not after birds but after _____.",
+    "answer": "dogs",
+    "alternates": [
+      "dog",
+      "large dogs",
+      "hounds",
+      "wild dogs"
+    ],
+    "decoys": [
+      "goats",
+      "lizards",
+      "rabbits",
+      "parrots"
+    ]
+  },
+  {
+    "id": 77,
+    "category": "Geography",
+    "text": "The Portuguese explorer Bartolomeu Dias originally named the Cape of Good Hope the Cape of _____.",
+    "answer": "Storms",
+    "alternates": [
+      "storm",
+      "tempests",
+      "torments",
+      "cape of storms"
+    ],
+    "decoys": [
+      "Despair",
+      "Sharks",
+      "Wrecks",
+      "Sorrow"
+    ]
+  },
+  {
+    "id": 78,
+    "category": "Geography",
+    "text": "The Perthshire village of Dull is officially paired with an American town called _____.",
+    "answer": "Boring",
+    "alternates": [
+      "boring oregon"
+    ],
+    "decoys": [
+      "Dreary",
+      "Tedium",
+      "Yawn",
+      "Humdrum"
+    ]
+  },
+  {
+    "id": 79,
+    "category": "Geography",
+    "text": "Counting its overseas territories, the country that covers the most time zones is _____.",
+    "answer": "France",
+    "alternates": [],
+    "decoys": [
+      "Russia",
+      "United Kingdom",
+      "Denmark",
+      "Netherlands"
+    ]
+  },
+  {
+    "id": 80,
+    "category": "Inventions",
+    "text": "The chainsaw was originally invented in 18th-century Scotland to help with _____.",
+    "answer": "childbirth",
+    "alternates": [
+      "child birth",
+      "giving birth",
+      "delivering babies",
+      "difficult births",
+      "labour",
+      "births",
+      "birth"
+    ],
+    "decoys": [
+      "sheep shearing",
+      "peat cutting",
+      "ice carving",
+      "whale butchery"
+    ]
+  },
+  {
+    "id": 81,
+    "category": "Inventions",
+    "text": "The treadmill was invented in 1818 as a _____.",
+    "answer": "prison punishment",
+    "alternates": [
+      "punishment for prisoners",
+      "punishment",
+      "a punishment",
+      "way to punish prisoners",
+      "punishment device",
+      "prisoner punishment",
+      "punishment for convicts"
+    ],
+    "decoys": [
+      "cure for gout",
+      "butter churn",
+      "horse trainer",
+      "army fitness test"
+    ]
+  },
+  {
+    "id": 82,
+    "category": "Inventions",
+    "text": "The machine that makes candyfloss was co-invented in 1897 by a _____.",
+    "answer": "dentist",
+    "alternates": [
+      "a dentist"
+    ],
+    "decoys": [
+      "priest",
+      "undertaker",
+      "wig-maker",
+      "vet"
+    ]
+  },
+  {
+    "id": 83,
+    "category": "Inventions",
+    "text": "The Frisbee gets its name from the Frisbie _____ Company of Connecticut.",
+    "answer": "Pie",
+    "alternates": [
+      "pies",
+      "baking",
+      "pie baking",
+      "bakery"
+    ],
+    "decoys": [
+      "Hat",
+      "Kite",
+      "Clock",
+      "Saucepan"
+    ]
+  },
+  {
+    "id": 84,
+    "category": "Inventions",
+    "text": "Viagra was originally developed as a treatment for _____.",
+    "answer": "angina",
+    "alternates": [
+      "chest pain",
+      "heart disease",
+      "high blood pressure",
+      "hypertension",
+      "heart problems",
+      "heart conditions",
+      "angina pectoris"
+    ],
+    "decoys": [
+      "hay fever",
+      "baldness",
+      "migraines",
+      "stomach ulcers"
+    ]
+  },
+  {
+    "id": 85,
+    "category": "Inventions",
+    "text": "Fredric Baur was so proud of inventing the _____ that part of his ashes was buried in one.",
+    "answer": "Pringles tube",
+    "alternates": [
+      "pringles can",
+      "pringles tin",
+      "pringles container",
+      "pringles packet",
+      "pringles tub"
+    ],
+    "decoys": [
+      "Thermos flask",
+      "Tupperware box",
+      "egg carton",
+      "cocktail shaker"
+    ]
+  },
+  {
+    "id": 86,
+    "category": "Inventions",
+    "text": "The world's first webcam was set up at Cambridge University to keep an eye on a _____.",
+    "answer": "coffee pot",
+    "alternates": [
+      "coffee machine",
+      "coffee maker",
+      "pot of coffee",
+      "coffee jug",
+      "filter coffee machine",
+      "coffeepot"
+    ],
+    "decoys": [
+      "fish tank",
+      "bike shed",
+      "vending machine",
+      "lab hamster"
+    ]
+  },
+  {
+    "id": 87,
+    "category": "Inventions",
+    "text": "The first product ever scanned at a supermarket barcode till, in 1974, was a packet of _____.",
+    "answer": "chewing gum",
+    "alternates": [
+      "gum",
+      "wrigley's gum",
+      "wrigley's chewing gum",
+      "juicy fruit",
+      "wrigleys",
+      "wrigleys gum",
+      "wrigley's juicy fruit"
+    ],
+    "decoys": [
+      "cigarettes",
+      "razor blades",
+      "tea bags",
+      "playing cards"
+    ]
+  },
+  {
+    "id": 88,
+    "category": "Inventions",
+    "text": "The world's first text message, sent in 1992, read simply '_____'.",
+    "answer": "Merry Christmas",
+    "alternates": [
+      "merry xmas",
+      "happy christmas"
+    ],
+    "decoys": [
+      "Testing testing",
+      "Are you there",
+      "It works",
+      "Call me back"
+    ]
+  },
+  {
+    "id": 89,
+    "category": "Inventions",
+    "text": "The first item ever sold on eBay was a broken _____.",
+    "answer": "laser pointer",
+    "alternates": [
+      "laser pen",
+      "broken laser pointer",
+      "laser"
+    ],
+    "decoys": [
+      "fax machine",
+      "pocket calculator",
+      "lava lamp",
+      "video recorder"
+    ]
+  },
+  {
+    "id": 90,
+    "category": "Inventions",
+    "text": "When it first went on sale in Hungary, the Rubik's Cube was called the _____.",
+    "answer": "Magic Cube",
+    "alternates": [
+      "the magic cube",
+      "buvos kocka",
+      "bűvös kocka"
+    ],
+    "decoys": [
+      "Devil's Brick",
+      "Colour Puzzle",
+      "Budapest Block",
+      "Professor's Box"
+    ]
+  },
+  {
+    "id": 91,
+    "category": "Inventions",
+    "text": "Monopoly was closely based on an earlier board game, patented in 1904, called The _____ Game.",
+    "answer": "Landlord's",
+    "alternates": [
+      "landlords",
+      "landlord",
+      "the landlord's game",
+      "landlords game"
+    ],
+    "decoys": [
+      "Banker's",
+      "Pauper's",
+      "Tycoon's",
+      "Rent Collector's"
+    ]
+  },
+  {
+    "id": 92,
+    "category": "Inventions",
+    "text": "Pac-Man was originally released in Japan under the name _____.",
+    "answer": "Puck Man",
+    "alternates": [
+      "puckman",
+      "puck-man"
+    ],
+    "decoys": [
+      "Gobble Boy",
+      "Chomp-Chomp",
+      "Mister Munch",
+      "Yellow Fellow"
+    ]
+  },
+  {
+    "id": 93,
+    "category": "Arts & Entertainment",
+    "text": "The blood in the famous shower scene of Hitchcock's Psycho was actually _____.",
+    "answer": "chocolate syrup",
+    "alternates": [
+      "chocolate sauce",
+      "bosco",
+      "bosco chocolate syrup",
+      "chocolate"
+    ],
+    "decoys": [
+      "beetroot juice",
+      "black treacle",
+      "cold coffee",
+      "soy sauce"
+    ]
+  },
+  {
+    "id": 94,
+    "category": "Arts & Entertainment",
+    "text": "The barking calls of the velociraptors in Jurassic Park were recordings of _____ mating.",
+    "answer": "tortoises",
+    "alternates": [
+      "tortoise",
+      "giant tortoises",
+      "turtles"
+    ],
+    "decoys": [
+      "walruses",
+      "hedgehogs",
+      "donkeys",
+      "swans"
+    ]
+  },
+  {
+    "id": 95,
+    "category": "Arts & Entertainment",
+    "text": "To save metal during the Second World War, Oscar statuettes were made of painted _____.",
+    "answer": "plaster",
+    "alternates": [
+      "plaster of paris"
+    ],
+    "decoys": [
+      "wood",
+      "cardboard",
+      "wax",
+      "concrete"
+    ]
+  },
+  {
+    "id": 96,
+    "category": "Arts & Entertainment",
+    "text": "Ian Fleming borrowed the name James Bond from a real-life _____.",
+    "answer": "ornithologist",
+    "alternates": [
+      "an ornithologist",
+      "bird expert",
+      "birdwatcher",
+      "bird watcher",
+      "bird-watcher",
+      "bird scientist"
+    ],
+    "decoys": [
+      "undertaker",
+      "tax inspector",
+      "jockey",
+      "bishop"
+    ]
+  },
+  {
+    "id": 97,
+    "category": "Arts & Entertainment",
+    "text": "The logo of Chupa Chups lollipops was designed by _____.",
+    "answer": "Salvador Dalí",
+    "alternates": [
+      "salvador dali",
+      "dali",
+      "dalí"
+    ],
+    "decoys": [
+      "Pablo Picasso",
+      "Andy Warhol",
+      "Joan Miró",
+      "Walt Disney"
+    ]
+  },
+  {
+    "id": 98,
+    "category": "Arts & Entertainment",
+    "text": "In 1961 a Matisse hung in New York's Museum of Modern Art for 47 days before anyone noticed it was _____.",
+    "answer": "upside down",
+    "alternates": [
+      "upside-down",
+      "hung upside down",
+      "the wrong way up",
+      "wrong way up"
+    ],
+    "decoys": [
+      "a forgery",
+      "back to front",
+      "a print",
+      "by Picasso"
+    ]
+  },
+  {
+    "id": 99,
+    "category": "Arts & Entertainment",
+    "text": "Mozart wrote a canon for six voices whose German title translates as '_____'.",
+    "answer": "lick me in the arse",
+    "alternates": [
+      "lick my arse",
+      "kiss my arse",
+      "lick me in the ass",
+      "lick my ass",
+      "kiss my ass",
+      "lick me in the bum",
+      "lick my bum",
+      "lick me up the arse"
+    ],
+    "decoys": [
+      "my wife is a goose",
+      "pass the sausage",
+      "I owe everybody money",
+      "shut up and drink"
+    ]
+  },
+  {
+    "id": 100,
+    "category": "Arts & Entertainment",
+    "text": "Coronation Street was originally going to be called _____ Street.",
+    "answer": "Florizel",
+    "alternates": [
+      "florizel street",
+      "florizell"
+    ],
+    "decoys": [
+      "Jubilee",
+      "Inkerman",
+      "Gasworks",
+      "Docker"
+    ]
+  },
+  {
+    "id": 101,
+    "category": "Arts & Entertainment",
+    "text": "The TARDIS's wheezing take-off sound in Doctor Who was made by scraping a _____ along the strings of an old piano.",
+    "answer": "house key",
+    "alternates": [
+      "key",
+      "door key",
+      "front door key",
+      "a key",
+      "latchkey",
+      "front-door key",
+      "latch key"
+    ],
+    "decoys": [
+      "wet cork",
+      "violin bow",
+      "wedding ring",
+      "butter knife"
+    ]
+  },
+  {
+    "id": 102,
+    "category": "Arts & Entertainment",
+    "text": "When the Mona Lisa was stolen from the Louvre in 1911, police questioned _____ as a suspect.",
+    "answer": "Pablo Picasso",
+    "alternates": [
+      "picasso"
+    ],
+    "decoys": [
+      "Claude Monet",
+      "Marcel Proust",
+      "Harry Houdini",
+      "Auguste Rodin"
+    ]
+  },
+  {
+    "id": 103,
+    "category": "Sport",
+    "text": "Between 1900 and 1920, _____ was an Olympic event.",
+    "answer": "tug of war",
+    "alternates": [
+      "tug-of-war",
+      "tug o' war",
+      "tug o war",
+      "the tug of war"
+    ],
+    "decoys": [
+      "arm wrestling",
+      "sack racing",
+      "leapfrog",
+      "pillow fighting"
+    ]
+  },
+  {
+    "id": 104,
+    "category": "Sport",
+    "text": "At the 1900 Paris Olympics, one shooting event used live _____ as targets.",
+    "answer": "pigeons",
+    "alternates": [
+      "pigeon",
+      "live pigeons",
+      "doves"
+    ],
+    "decoys": [
+      "rabbits",
+      "ducks",
+      "rats",
+      "pheasants"
+    ]
+  },
+  {
+    "id": 105,
+    "category": "Sport",
+    "text": "In 1457 the Scottish parliament banned golf because it was distracting men from _____ practice.",
+    "answer": "archery",
+    "alternates": [
+      "bow and arrow",
+      "longbow",
+      "their archery"
+    ],
+    "decoys": [
+      "sword",
+      "bagpipe",
+      "wrestling",
+      "choir"
+    ]
+  },
+  {
+    "id": 106,
+    "category": "Sport",
+    "text": "In 1939 a 'timeless' Test match between South Africa and England was abandoned as a draw after ten days' play because the England team had to _____.",
+    "answer": "catch their boat home",
+    "alternates": [
+      "catch their boat",
+      "catch the boat home",
+      "catch a boat",
+      "catch a boat home",
+      "catch their ship",
+      "catch their ship home",
+      "catch the boat",
+      "get the boat home",
+      "catch the ship home"
+    ],
+    "decoys": [
+      "go back to their jobs",
+      "attend a royal wedding",
+      "join the army",
+      "renew their visas"
+    ]
+  },
+  {
+    "id": 107,
+    "category": "Sport",
+    "text": "Before the name 'ping-pong' caught on, table tennis sets were sold in Britain under the name _____.",
+    "answer": "Gossima",
+    "alternates": [
+      "whiff-whaff",
+      "whiff whaff",
+      "wiff waff",
+      "wiff-waff",
+      "whiffwhaff"
+    ],
+    "decoys": [
+      "Pattaball",
+      "Netto",
+      "Flickit",
+      "Tabloon"
+    ]
+  },
+  {
+    "id": 108,
+    "category": "Sport",
+    "text": "In 1966 the stolen World Cup trophy was found under a hedge by a dog named _____.",
+    "answer": "Pickles",
+    "alternates": [
+      "pickles the dog",
+      "pickle"
+    ],
+    "decoys": [
+      "Biscuit",
+      "Nobby",
+      "Scamp",
+      "Winston"
+    ]
+  },
+  {
+    "id": 109,
+    "category": "Sport",
+    "text": "In a traditional Yorkshire endurance contest, competitors see how long they can keep two live ferrets _____.",
+    "answer": "down their trousers",
+    "alternates": [
+      "in their trousers",
+      "down their pants",
+      "inside their trousers",
+      "down the trousers",
+      "in their pants",
+      "down trousers",
+      "up their trousers"
+    ],
+    "decoys": [
+      "under their hats",
+      "in a headlock",
+      "up their jumpers",
+      "fast asleep"
+    ]
+  },
+  {
+    "id": 110,
+    "category": "Sport",
+    "text": "When it was invented in 1895, volleyball was called _____.",
+    "answer": "Mintonette",
+    "alternates": [
+      "mintonnette",
+      "mintonet",
+      "minonette"
+    ],
+    "decoys": [
+      "Palmette",
+      "Springball",
+      "Lobbit",
+      "Netsy"
+    ]
+  },
+  {
+    "id": 111,
+    "category": "Sport",
+    "text": "The Cotswold Olimpick Games, first held in 1612, include a championship in _____.",
+    "answer": "shin-kicking",
+    "alternates": [
+      "shin kicking",
+      "kicking shins",
+      "shinkicking",
+      "shin-kicking contest"
+    ],
+    "decoys": [
+      "hat-throwing",
+      "pig-chasing",
+      "ditch-vaulting",
+      "beard-pulling"
+    ]
+  },
+  {
+    "id": 112,
+    "category": "Laws",
+    "text": "Under a 1986 Act of Parliament, it is an offence to handle a _____ in suspicious circumstances.",
+    "answer": "salmon",
+    "alternates": [
+      "a salmon",
+      "salmons"
+    ],
+    "decoys": [
+      "swan",
+      "badger",
+      "ferret",
+      "pheasant"
+    ]
+  },
+  {
+    "id": 113,
+    "category": "Laws",
+    "text": "Under the Licensing Act 1872, it is still technically an offence in England to be drunk in _____.",
+    "answer": "a pub",
+    "alternates": [
+      "pub",
+      "pubs",
+      "the pub",
+      "licensed premises",
+      "a bar",
+      "any licensed premises",
+      "a public house"
+    ],
+    "decoys": [
+      "your own garden",
+      "a bathtub",
+      "a wheelbarrow",
+      "a rowing boat"
+    ]
+  },
+  {
+    "id": 114,
+    "category": "Laws",
+    "text": "A statute of 1313 that has never been repealed forbids MPs from entering Parliament wearing _____.",
+    "answer": "armour",
+    "alternates": [
+      "a suit of armour",
+      "suit of armour",
+      "armor",
+      "full armour",
+      "a suit of armor"
+    ],
+    "decoys": [
+      "spurs",
+      "a wig",
+      "a kilt",
+      "a top hat"
+    ]
+  },
+  {
+    "id": 115,
+    "category": "Laws",
+    "text": "By a law dating from the 1320s, any whale or _____ washed up on the English coast belongs to the monarch.",
+    "answer": "sturgeon",
+    "alternates": [
+      "sturgeons",
+      "a sturgeon"
+    ],
+    "decoys": [
+      "seal",
+      "shark",
+      "walrus",
+      "giant squid"
+    ]
+  },
+  {
+    "id": 116,
+    "category": "Laws",
+    "text": "In Switzerland it is illegal to keep just one _____, because they get lonely.",
+    "answer": "guinea pig",
+    "alternates": [
+      "guinea pigs",
+      "guinea-pig",
+      "guineapig"
+    ],
+    "decoys": [
+      "hamster",
+      "tortoise",
+      "hedgehog",
+      "snail"
+    ]
+  },
+  {
+    "id": 117,
+    "category": "Laws",
+    "text": "In France, with the president's personal permission, you can legally marry _____.",
+    "answer": "a dead person",
+    "alternates": [
+      "dead person",
+      "someone who is dead",
+      "a corpse",
+      "the dead",
+      "a dead fiancé",
+      "a dead fiance",
+      "a deceased person",
+      "someone dead",
+      "your dead fiance",
+      "a dead partner",
+      "dead people",
+      "a dead man",
+      "a dead woman"
+    ],
+    "decoys": [
+      "two people at once",
+      "yourself",
+      "a fictional character",
+      "a racehorse"
+    ]
+  },
+  {
+    "id": 118,
+    "category": "Laws",
+    "text": "In 2008 a New Zealand judge ordered that a nine-year-old girl be allowed to change her name from '_____ Does the Hula From Hawaii'.",
+    "answer": "Talula",
+    "alternates": [
+      "tallulah",
+      "talulah",
+      "tallula",
+      "talula does the hula from hawaii"
+    ],
+    "decoys": [
+      "Bubbles",
+      "Moana",
+      "Princess",
+      "Coco"
+    ]
+  },
+  {
+    "id": 119,
+    "category": "Laws",
+    "text": "A 2004 order made it an offence to bring into England any potatoes you have reason to suspect are _____.",
+    "answer": "Polish",
+    "alternates": [
+      "from poland",
+      "poland"
+    ],
+    "decoys": [
+      "Dutch",
+      "radioactive",
+      "stolen",
+      "French"
+    ]
+  },
+  {
+    "id": 120,
+    "category": "Laws",
+    "text": "Each year the City of London pays the Crown rent for the site of a long-vanished forge: 61 nails and six giant _____.",
+    "answer": "horseshoes",
+    "alternates": [
+      "horse shoes",
+      "giant horseshoes",
+      "horseshoe"
+    ],
+    "decoys": [
+      "candles",
+      "keys",
+      "pies",
+      "hammers"
+    ]
+  }
+]

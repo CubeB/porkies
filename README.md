@@ -130,3 +130,7 @@ dns.js           optional helper for a friendly join address
 
 The server is the single source of truth: it sends each screen a full snapshot of the
 game whenever anything changes, and the clients simply draw what they are given.
+
+## Licence
+
+[MIT](LICENSE) — free for anyone to use, change and share.
